@@ -13,8 +13,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dev-cli": "github:Thomas-Carlsen/dev-cli"
-  }
+  "license": "ISC"
 }
